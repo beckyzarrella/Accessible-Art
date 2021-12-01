@@ -13,10 +13,10 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
-color,Color
+color,Color,true
 monochromatic,Monochromatic
-camera,Camera
+camera,Camera,true
 accessmode,AccessMode
-edits,Edits
+edits,Edits,true
 original,Original
-style,Style
+style,Style,true
