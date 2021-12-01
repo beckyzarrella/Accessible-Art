@@ -16,7 +16,7 @@ rightsstatement,Rights Statement,,true
 color,Color,true
 
 camera,Camera
-accessmode,Access Mode
-edits,Edited In
+accessmode,Access Mode,,
+edits,Edited In,,
 original,Original
 style,Style
