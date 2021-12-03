@@ -14,7 +14,7 @@ format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,true
 color,Color,true
-camera,Camera,true
-accessmode,Access Mode,true
-edits,Edited In,true
-style,Style,true
+camera,Camera,true,true
+accessmode,Access Mode,true,true
+edits,Edited In,true,true
+style,Style,true,true
