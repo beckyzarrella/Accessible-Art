@@ -4,3 +4,8 @@ creator,Creator,,,
 subject,,true
 location,,true
 color,Color,true
+camera,Camera,true
+accessmode,Access Mode,true
+edits,Edited In,true
+style,Style,true
+depth,Depth,true
