@@ -9,3 +9,6 @@ accessmode,Access Mode,true
 edits,Edited In,true
 style,Style,true
 depth,Depth,true
+type,Type,true
+format,Format,true
+title,Title,true
