@@ -6,7 +6,7 @@ description,true,true
 subject,true,true
 location,true,false
 color,true,true
-camera,true,true
+camera,true,false
 accessmode,true,true
 edits,true,true
 style,true,true
