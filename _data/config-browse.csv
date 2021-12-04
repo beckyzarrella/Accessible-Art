@@ -7,7 +7,7 @@ color,Color,true
 camera,Camera,true
 accessmode,Access Mode,true
 edits,Edited In,true
-style,Style,true
+genre,Genre,true
 depth,Depth,true
 type,Type,true
 format,Format,true
